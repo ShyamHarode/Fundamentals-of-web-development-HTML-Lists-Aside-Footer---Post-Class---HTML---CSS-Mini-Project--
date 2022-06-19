@@ -21,7 +21,8 @@ CSS custom properties
 
 ## Deployment
 To visit my project please click on the Link
-https://joyful-crostata-561a1d.netlify.app
+https://shyam-harode-project.netlify.app
+
 
 
 
